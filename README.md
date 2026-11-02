@@ -1,8 +1,17 @@
 # XMKTP(Xagros's Mods Korean Translation Project)
+
+## Repository version and installation
+
+This repository contains `XMKTP` source version `1.5.1`. Its [info.json](info.json) declares Factorio `0.17`. These metadata describe this checkout and do not establish compatibility with newer Factorio versions.
+
+For packaged installation, use the [XMKTP Mod Portal downloads](https://mods.factorio.com/mod/XMKTP/downloads) and select a file for your installed Factorio version. Portal releases can differ from this checkout. Put the downloaded mod ZIP in your Factorio user data `mods` directory and install the required dependencies listed in the manifest; entries prefixed with `?` are optional.
+
+GitHub Releases in this repository: [Tester](https://github.com/GimoXagros/factorio-mod-xmktp/releases/tag/Tester) (prerelease). Check their version separately from the source manifest.
+
 ## Korean localization mod for Some mods for Factorio.
 ### Thank you for downloaded this mod. (By.Xagros)
 
-[![GitHub issues](https://img.shields.io/github/issues/GimoXagros/XMKTP.svg)](https://github.com/GimoXagros/XMKTP/issues) [![CrowdIn](https://img.shields.io/badge/localized-Progressing-green.svg)](https://crowdin.com/project/angelsaddons-newlocales) [![GitHub license](https://img.shields.io/github/license/GimoXagros/XMKTP.svg)](https://github.com/GimoXagros/XMKTP/blob/master/LICENSE)
+[![GitHub issues](https://img.shields.io/github/issues/GimoXagros/factorio-mod-xmktp.svg)](https://github.com/GimoXagros/factorio-mod-xmktp/issues) [![CrowdIn](https://img.shields.io/badge/localized-Progressing-green.svg)](https://crowdin.com/project/angelsaddons-newlocales) [![GitHub license](https://img.shields.io/github/license/GimoXagros/factorio-mod-xmktp.svg)](https://github.com/GimoXagros/factorio-mod-xmktp/blob/master/LICENSE)
 -------------
 Korean localization mod for Some mods for Factorio.
 If your mod needs Korean locale file, contact me. Discussion and E-mail
